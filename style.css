@@ -14,6 +14,7 @@
 	height: 100px;
     position: absolute;
 }
+/*1line css*/
 .one{left: 0; top:0;}
 .two{left: 200px; top: 0;}
 .three{right: 100px; top:0;}
@@ -24,6 +25,7 @@
 .seven{right: 0; top:100px;}
 .eight{right: 200px; top:100px;}
 
+/*2line css */
 .nine{left: 0; top:200px;}
 .ten{left: 200px; top: 200px;}
 .eleven{right: 100px; top:200px;}
@@ -33,3 +35,14 @@
 .fourteen{left: 300px; top:300px;}
 .fifteen{right: 0; top:300px;}
 .sixteen{right: 200px; top:300px;}
+
+/*3line css */
+.seventeen{left: 100px; bottom:0;}
+.eighteen{left: 300px; bottom: 0;}
+.nineteen{right: 0; bottom:0;}
+.twenty{right: 200px;bottom:0;}
+
+.twenty-one{left: 0; bottom:100px;}
+.twenty-two{left: 200px; bottom: 100px;}
+.twenty-three{right: 100px; bottom:100px;}
+.twenty-four{right: 300px;bottom:100px}
