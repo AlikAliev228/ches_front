@@ -1,8 +1,25 @@
-
 .container{
-    position: relative;
+	background: #99743E;
     width: 800px;
     height: 800px;
-    background: brown;
-    
+    position: relative;
+    left: 300px;
+    border: 30px solid #735532;
+    z-index: -2;
 }
+.item{
+    z-index: -1;
+	background-color: #DFC98D;
+	width: 100px;
+	height: 100px;
+    position: absolute;
+}
+.one{left: 0; top:0;}
+.two{left: 200px; top: 0;}
+.three{right: 100px; top:0;}
+.four{right: 300px;top: 0;}
+
+.five{ left: 100px; top: 100px;}
+.six{left: 300px; top:100px;}
+.seven{right: 0; top:100px;}
+.eight{right: 200px; top:100px;}
