@@ -14,6 +14,7 @@
 	height: 100px;
     position: absolute;
 }
+/* start line*/
 /*1line css*/
 .one{left: 0; top:0;}
 .two{left: 200px; top: 0;}
@@ -46,3 +47,16 @@
 .twenty-two{left: 200px; bottom: 100px;}
 .twenty-three{right: 100px; bottom:100px;}
 .twenty-four{right: 300px;bottom:100px}
+
+/*4line css */
+.twenty-five{left: 100px;bottom:200px;}
+.twenty-six{left: 300px; bottom: 200px;}
+.twenty-seven{right: 0; bottom:200px;}
+.twenty-eight{right: 200px;bottom:200px;}
+
+.twenty-nine{left: 0; bottom:300px;}
+.thirty{left: 200px; bottom: 300px;}
+.thirty-one{right: 100px; bottom:300px;}
+.thirty-two{right: 300px;bottom:300px;}
+
+/*end line*/
