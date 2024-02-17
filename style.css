@@ -60,3 +60,27 @@
 .thirty-two{right: 300px;bottom:300px;}
 
 /*end line*/
+
+/*img style*/
+.img1{
+    z-index: 10;
+    width: 100px;
+    height: 100px;
+}
+.position{
+    position: absolute;
+}
+.mean{
+    position: absolute;
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    color: white;
+    bottom: 790px;
+   
+    
+}
+
+li{
+    margin-left: 100PX;
+}
